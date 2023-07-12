@@ -1,0 +1,24 @@
+{
+  "name": "videochat-app",
+  "version": "1.0.0",
+  "description": "- git\r - node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sorbaugh/videochat-app.git"
+  },
+  "author": "Stephan Orbaugh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sorbaugh/videochat-app/issues"
+  },
+  "homepage": "https://github.com/sorbaugh/videochat-app#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "socket.io": "^4.7.1"
+  }
+}
